@@ -1,5 +1,3 @@
-// src/redux/cartReducer.js
-
 import { ADD_TO_CART, REMOVE_FROM_CART, UPDATE_QUANTITY, CLEAR_CART } from './cartActions';
 
 const initialState = {

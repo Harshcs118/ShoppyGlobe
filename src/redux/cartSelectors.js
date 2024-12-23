@@ -1,5 +1,3 @@
-// src/redux/cartSelectors.js
-
 export const selectCartItems = (state) => state.cart.cartItems;
 
 export const selectTotalPrice = (state) => {
